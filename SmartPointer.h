@@ -63,3 +63,5 @@ template<typename T> SmartPointer<T>& SmartPointer<T>::operator=(const SmartPoin
 	}
 	return *this;
 }
+
+#endif
